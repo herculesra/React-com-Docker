@@ -46,4 +46,4 @@
 
 <code>$docker inspect '<'nome_container'>' </code> 
 
-<h3>Este projeto foi baseado no artigo do<a href="https://mherman.org/blog/dockerizing-a-react-app/">Michael Herman</a></h3>
+<h3>Este projeto foi baseado no artigo do <a href="https://mherman.org/blog/dockerizing-a-react-app/">Michael Herman</a></h3>
