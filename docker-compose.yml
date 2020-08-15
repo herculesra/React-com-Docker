@@ -4,7 +4,7 @@ services:
     # esta linha resolve o problema do container não fechar
     # this line solve the problem of container closing
     stdin_open: true
-    container_name: sample
+    container_name: react-docker
     build:
       context: .
       dockerfile: Dockerfile

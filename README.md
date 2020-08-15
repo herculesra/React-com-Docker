@@ -1,3 +1,13 @@
+# Rodar a aplicação
+<p>Atribuindo permissão de execução</p>
+<code>chmod +x run-app-deploy.sh</code>
+
+<p>Para iniciar o ambiente de desenvolvimento utilize:</p>
+<code>./run-app-deploy.sh --dev </code>
+
+<p>Para realizar o deploy em ambiente de produção utilize:</p>
+<code>./run-app-deploy.sh --prod</code>
+
 # Desenvolvimento
 ## Comandos referente ao Docker
 
@@ -46,4 +56,4 @@
 
 <code>$docker inspect '<'nome_container'>' </code> 
 
-<h3>Este projeto foi baseado no artigo do <a href="https://mherman.org/blog/dockerizing-a-react-app/">Michael Herman</a></h3>
+<h3>Este projeto foi baseado nos artigos do <a href="https://mherman.org/blog/dockerizing-a-react-app/">Michael Herman</a> e do <a href="https://github.com/atmosmps/dockerized-react-app">Maciel</a></h3>
